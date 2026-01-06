@@ -1,0 +1,12 @@
+{
+  "name": "love-message-app",
+  "version": "1.0.0",
+  "description": "A beautiful animated love message",
+  "scripts": {
+    "build": "echo 'No build needed - static site' && exit 0",
+    "start": "echo 'Open index.html in browser'"
+  },
+  "keywords": ["love", "animation", "static"],
+  "author": "Vishu",
+  "license": "MIT"
+}
